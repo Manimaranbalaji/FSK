@@ -94,5 +94,4 @@ plt.show()tach the program
 Thus the FSK(Frequency shift keying) is performed using Python.
 
 # Hardware experiment output waveform.
-![WhatsApp Image 2025-04-26 at 08 55 17_37025e84](https://github.com/user-attachments/assets/48da85c6-cbef-408e-b6bf-350632408352)
-
+![WhatsApp Image 2025-04-26 at 20 10 43_7600bfb2](https://github.com/user-attachments/assets/c04feb83-760a-4b62-a3d9-01eb0e2c087a)
